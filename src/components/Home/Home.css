@@ -1,0 +1,27 @@
+.home-left h1 {
+  font-size: 100px;
+  font-weight: 700;
+}
+
+.text-color {
+  color: #612fee;
+}
+
+.home-left p {
+  color: rgb(146, 146, 146);
+  font-size: 18px;
+  font-weight: 500;
+  padding-right: 95px;
+  margin: 20px 0;
+}
+
+.demo-btn {
+  border: none;
+  border-radius: 5px;
+  background-color: #2469ff38;
+  padding: 15px 40px;
+  color: #612fee;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+}

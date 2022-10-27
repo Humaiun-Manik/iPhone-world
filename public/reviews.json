@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "635ad0ef6d81b443c2d4c741",
+    "picture": "https://i.ibb.co/8M5hnZd/client-1.jpg",
+    "name": "Lisa Farmer",
+    "star": 5,
+    "comment": "prodact akdom original khob valo babhinai ato valo r original prodact pbo quality khob valo good quality sotti ami khose hoyese ato valo akti prodact peye"
+  },
+  {
+    "_id": "635ad0eff2dde90d1f535fc4",
+    "picture": "https://i.ibb.co/Z6B2ww9/client-2.jpg",
+    "name": "Nadine Mcmahon",
+    "star": 4.5,
+    "comment": "dam onujai motamuti valo....but jemon ta dekhe order korci seirokom ta de nai....onek bar bolci jeno same hoy...but same holona......"
+  },
+  {
+    "_id": "635ad0ef121b2b05f624760a",
+    "picture": "https://i.ibb.co/jGgWMyC/client-3.jpg",
+    "name": "Laverne Hendrix",
+    "star": 4,
+    "comment": "product mota moti....ami 4 jora kinci  1 jora valo hoy  na...product a sellai  dak ace....ata refu  kora....seller ar product deikha  deyar dorkar cilo...."
+  },
+  {
+    "_id": "635ad0ef71bbbfb7a926f7a4",
+    "picture": "https://i.ibb.co/qFyh4Qx/client-4.jpg",
+    "name": "Myers Crawford",
+    "star": 3.5,
+    "comment": "good product, jemon cheyeci temoni peyeci thanks Daraz, besi kicu bolar nai"
+  },
+  {
+    "_id": "635ad0ef8be5cfe13b881ca9",
+    "picture": "https://i.ibb.co/kDSSrDj/client-5.jpg",
+    "name": "Lela Taylor",
+    "star": 5,
+    "comment": "Alhamdulillah ei price e onek valo ekta headphone. koekdin use korer por review disse."
+  },
+  {
+    "_id": "635ad0ef8be5cfe13b8ca9",
+    "picture": "https://i.ibb.co/bHVqSDy/client-6.jpg",
+    "name": "Lela Taylor",
+    "star": 4.5,
+    "comment": "order kora hoise ek product deliver korse onno ta. setaw nosto."
+  }
+]
