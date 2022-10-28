@@ -15,7 +15,7 @@ const Home = () => {
     <div className="container py-5  px-0">
       <div>
         <Row xs={1} md={2} className="g-4 py-5">
-          <Col className="home-left" lg={8}>
+          <Col className="home-left" sm={12} lg={8}>
             <h1>Your next phone</h1>
             <h1 className="text-color">Your best phone</h1>
             <p>
